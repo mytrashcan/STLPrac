@@ -5,7 +5,7 @@
 #include <queue>
 #include <algorithm>
 using namespace std;
-/*
+
 int main() {
 	int tc;
 	cin >> tc;
@@ -53,4 +53,3 @@ int main() {
 			cout << 0 << '\n';
 	}
 }
-*/

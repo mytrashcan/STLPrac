@@ -3,7 +3,7 @@
 #include <string>
 #include <algorithm>
 using namespace std;
-/*
+
 int main() {
 	int N;
 	int M;
@@ -32,4 +32,3 @@ int main() {
 		cout << endl;
 	}
 }
-*/

@@ -5,7 +5,7 @@
 #include <algorithm>
 using namespace std;
 
-/*
+
 int main() {
 	short int n;
 	cin >> n;
@@ -35,4 +35,3 @@ int main() {
 		else cout << "NO\n";
 	}
 }
-*/
