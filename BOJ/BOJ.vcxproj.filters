@@ -39,5 +39,8 @@
     <ClCompile Include="funnySort.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="BankAccountSystem.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
