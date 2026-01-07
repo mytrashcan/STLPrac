@@ -111,8 +111,8 @@ public:
 };
 
 int main() {
-	int N, M;
-	cin >> N >> M;
+	int N, M, C;
+	cin >> N >> M >> C;
 
 	Graph g(N);
 
@@ -124,15 +124,13 @@ int main() {
 
 	g.sortEdges();
 
-	cout << "DFS 결과: ";
-	g.dfs(1);
+	//cout << "DFS 결과: ";
+	g.dfs(C);
 	cout << endl;
 
 	g.resetVisited();
 
-	cout << "BFS 결과: ";
-	g.bfs(1);
+	//cout << "BFS 결과: ";
+	g.bfs(C);
 	cout << endl;
-
-	cout << "연결 요소 개수: " << g.countConnectedComponents() << "\n";
 }
