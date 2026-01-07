@@ -12,6 +12,8 @@
 #include <algorithm>
 using namespace std;
 
+
+//bool cmp(const pair<string, int>& a, const pair<string, int>& b) {}
 bool cmp(pair<string, int> a, pair<string, int> b) {
 	if (a.second > b.second) return true;
 	else if (a.second == b.second)
