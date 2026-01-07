@@ -24,13 +24,16 @@
     <ClCompile Include="Palindrome.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="AdjacencyList.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="PairCompare.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="StringFrequency.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BestSeller.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="AdjacencyList.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
