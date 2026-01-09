@@ -45,10 +45,10 @@
     <ClCompile Include="RPGCharacter.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="CustomString.cpp">
+    <ClCompile Include="PayrollSystem.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="PayrollSystem.cpp">
+    <ClCompile Include="Graph.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
